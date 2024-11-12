@@ -1,4 +1,3 @@
-pip install streamlit pandas numpy plotly statsmodels scikit-learn
 source <your_env>/bin/activate  # For virtualenv or venv
 pip install plotly
 import streamlit as st
