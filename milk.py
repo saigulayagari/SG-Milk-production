@@ -1,4 +1,3 @@
-pip install plotly
 streamlit run milk.py
 streamlit run milk.py
 pip install streamlit pandas numpy plotly statsmodels scikit-learn
