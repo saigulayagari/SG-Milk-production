@@ -1,5 +1,3 @@
-streamlit run milk.py
-streamlit run milk.py
 pip install streamlit pandas numpy plotly statsmodels scikit-learn
 source <your_env>/bin/activate  # For virtualenv or venv
 pip install plotly
